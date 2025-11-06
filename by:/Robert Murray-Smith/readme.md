@@ -17,3 +17,5 @@ sch:
 
 # Document:
 https://www.build-a-gasifier.com/PDF/FEMAwood_gas_generator.pdf
+
+http://web.archive.org/web/20250000000000*/https://www.build-a-gasifier.com/PDF/FEMAwood_gas_generator.pdf
