@@ -9,6 +9,10 @@ video:
 4. [DIY Gasification and Generator Unit - Part 4 - The Cyclone](https://youtu.be/KDHJzW7weiI)
 5. [DIY Gasification and Generator Unit - Part 5 - Second Stage Filter](https://youtu.be/SKHbp7TgSvI)
 6. [DIY Gasification and Generator Unit - Part 6 - Air Cooling](https://youtu.be/LJ5IBZrpqzw)
+7. []
+8. [DIY Gasification and Generator Unit - Part 8 - Fire It Up](https://youtu.be/zPUhW75r500)
+
+- [DIY Gasification and Generator Unit - Seals](https://youtu.be/qYjpr2fIyCc)
 
 # Document:
 https://www.build-a-gasifier.com/PDF/FEMAwood_gas_generator.pdf
