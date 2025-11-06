@@ -14,6 +14,8 @@ sch:
 
 - [DIY Gasification and Generator Unit - Seals](https://youtu.be/qYjpr2fIyCc)
 - [DIY Gasification and Generator Some Details](https://youtu.be/5fc6ODd6ARM)
+- [DIY Gasification and Generator Unit - The Grate](https://youtu.be/RekL5JDxXhA)
+
 
 # Document:
 https://www.build-a-gasifier.com/PDF/FEMAwood_gas_generator.pdf
