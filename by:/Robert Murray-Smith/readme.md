@@ -13,6 +13,7 @@ sch:
 8. [DIY Gasification and Generator Unit - Part 8 - Fire It Up](https://youtu.be/zPUhW75r500)
 
 - [DIY Gasification and Generator Unit - Seals](https://youtu.be/qYjpr2fIyCc)
+- [DIY Gasification and Generator Some Details](https://youtu.be/5fc6ODd6ARM)
 
 # Document:
 https://www.build-a-gasifier.com/PDF/FEMAwood_gas_generator.pdf
