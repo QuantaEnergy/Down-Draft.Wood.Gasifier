@@ -1,3 +1,5 @@
 https://www.driveonwood.com
 
-https://www.driveonwood.com/library/deforestation/
+page:
+- https://www.driveonwood.com/library/deforestation/
+- https://www.driveonwood.com/library/welding/
