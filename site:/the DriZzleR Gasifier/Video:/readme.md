@@ -1,1 +1,2 @@
 - [PART1 Exstreme simple gasifier: DriZzleR mini](https://youtu.be/fr4WqCSd9ro)
+- https://thedrizzlergasifier.blogspot.com/2014/03/spacepeter-drizzlers-part-3-spacepeter.html?m=1
