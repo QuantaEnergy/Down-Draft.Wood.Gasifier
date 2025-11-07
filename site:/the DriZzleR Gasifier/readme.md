@@ -7,5 +7,8 @@ channel: https://m.youtube.com/channel/UC_N-CGmzYwvCVo3HmchwiLg
 - https://thedrizzlergasifier.blogspot.com/2014/03/spacepeter-drizzlers-part-3-spacepeter.html
 - https://thedrizzlergasifier.blogspot.com/2014/05/a-simple-drizzler-to-learn-ein.html
 
-# category:
-- https://thedrizzlergasifier.blogspot.com/search/label/various%20DriZzleR%20builds%20%2F%20unterschiedlich%20gebaute%20DriZzleR?m=1
+## category:
+- https://thedrizzlergasifier.blogspot.com/search/label/various%20DriZzleR%20builds%20%2F%20unterschiedlich%20gebaute%20DriZzleR
+
+# Schematic:
+https://thedrizzlergasifier.blogspot.com/2014/02/hinweise-zum-bau-eines-drizzlers-sieht.html
