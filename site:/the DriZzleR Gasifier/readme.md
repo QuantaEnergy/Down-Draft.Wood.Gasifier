@@ -1,6 +1,9 @@
 # channel:
 - https://m.youtube.com/channel/UC_N-CGmzYwvCVo3HmchwiLg
+- 
+people:
 - https://m.youtube.com/@LukVanhauwaert
+- https://m.youtube.com/@PascalKirchner
 
 # blog: https://thedrizzlergasifier.blogspot.com
 
