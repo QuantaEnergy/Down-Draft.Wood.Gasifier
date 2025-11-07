@@ -1,4 +1,6 @@
-channel: https://m.youtube.com/channel/UC_N-CGmzYwvCVo3HmchwiLg
+# channel:
+- https://m.youtube.com/channel/UC_N-CGmzYwvCVo3HmchwiLg
+- https://m.youtube.com/@LukVanhauwaert
 
 # blog: https://thedrizzlergasifier.blogspot.com
 
